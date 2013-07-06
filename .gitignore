@@ -1,0 +1,8 @@
+/.Python
+/bin
+/dist
+/lib
+/include
+/*.egg-info
+/man
+*.pyc
