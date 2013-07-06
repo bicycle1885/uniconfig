@@ -10,6 +10,7 @@ setup(
     author=uniconfig.__author__,
     maintainer=uniconfig.__maintainer__,
     description="Make it easy to make configuration objects from any sources.",
+    long_description=open("README.rst").read(),
     packages=find_packages(),
     install_requires=["PyYAML>=3.0"]
 )

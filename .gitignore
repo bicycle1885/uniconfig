@@ -5,4 +5,5 @@
 /include
 /*.egg-info
 /man
+/README.html
 *.pyc
